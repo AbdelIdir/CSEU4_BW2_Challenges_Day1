@@ -21,6 +21,7 @@ class ListNode():
 def addTwoNumbers(l1, l2):
     numStr1 = ""
     numStr2 = ""
+    
     while l1:
 
         numStr1 = str(l1.val) + numStr1
