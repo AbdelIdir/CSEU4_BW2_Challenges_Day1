@@ -6,6 +6,6 @@ var containsDuplicate = function (nums) {
   }
 };
 
-let numbers = [1, 2, 3, 4, 5, 5];
+let numbers = [1, 2, 3, 4, 5];
 
 console.log(containsDuplicate(numbers));
